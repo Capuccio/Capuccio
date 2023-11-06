@@ -31,6 +31,10 @@
 <p float="left">
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/5e292fa4-df57-49aa-b4c1-0d5d06878b04" />
 
+  <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/dc68c810-a3ac-48cd-9971-dd7c534d2160" />
+
+  <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/70a260f0-64bb-4d96-a65e-d7d3402e2e44" />
+
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/ea0860f5-3778-447f-879d-92e70f691463" />
 
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/3aa3e62f-23ca-4c35-9ac0-b184d5d1fa36" />
@@ -60,6 +64,9 @@
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/e8b38232-28a7-4821-9fb9-0e8b066c414a" />
   
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/c6c7f5aa-6a86-4926-b95a-25048a5c2100" />
+
+  <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/7e692963-223f-4daf-a553-fab19423f387" />
+
 </p>
 
 <h3 style="display: flex; align-items: center; gap: 0 2px;">
