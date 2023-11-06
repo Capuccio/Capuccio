@@ -60,13 +60,14 @@
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/b8fd423f-881b-4833-8c7e-7439cad523fc" />
   
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/a408fdbd-0ae6-4344-81e4-65861e381731" />
+
+  <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/113ee038-7e59-48f3-be9d-7e90dd8cfe55" />
   
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/e8b38232-28a7-4821-9fb9-0e8b066c414a" />
   
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/c6c7f5aa-6a86-4926-b95a-25048a5c2100" />
 
   <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/7e692963-223f-4daf-a553-fab19423f387" />
-
 </p>
 
 <h3 style="display: flex; align-items: center; gap: 0 2px;">
