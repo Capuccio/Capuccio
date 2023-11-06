@@ -1,4 +1,4 @@
-###About me 💻
+### About me 💻
 
 <img width="100%" src="https://github.com/Capuccio/Capuccio/assets/39959086/39e62377-d945-4feb-9de2-daf623ee112d" />
 
@@ -38,7 +38,6 @@
 <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/6a8369e8-240a-4de6-aa0e-a4210a6de519" />
 
 <img width="32" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-</p>
 
 <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/e46143a2-5043-4213-96dc-3bf28e9cb89c" />
 </p>
