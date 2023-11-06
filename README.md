@@ -40,7 +40,6 @@
 <img width="32" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 
 <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/e46143a2-5043-4213-96dc-3bf28e9cb89c" />
-</p>
 
 <img width="32" src="https://github.com/Capuccio/Capuccio/assets/39959086/5e292fa4-df57-49aa-b4c1-0d5d06878b04" />
 
